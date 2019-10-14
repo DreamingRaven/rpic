@@ -45,7 +45,7 @@ print("sys path:", sys.path)
 
 # -- Project information -----------------------------------------------------
 
-project = 'pyrtd'
+project = 'rpic'
 copyright = '2019, George Onoufriou (GeorgeRaven, archer, DreamingRaven)'
 author = 'GeorgeRaven'
 master_doc = 'index'
